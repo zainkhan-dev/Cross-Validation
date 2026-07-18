@@ -125,8 +125,8 @@ Stratified K-Fold ensures every fold contains approximately the same percentage 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/zainkhan-dev/Cross-Validation.git
+cd Cross-Validation
 ```
 
 ### 2. Install dependencies
@@ -148,7 +148,6 @@ For Stratified K-Fold:
 ```bash
 python stratified_kfold_cross_validation.py
 ```
-
 ---
 
 ## 📚 Concepts Covered
